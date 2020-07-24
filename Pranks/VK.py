@@ -1,7 +1,9 @@
 import time
 import sys
+import random
 
 animation = "|/-\\"
+passwords = ["GPl675Y", "Password", "Barsik", "ImCool", "Zinabab", "Qwerty"]
 
 print("____   ________  __. __________                                               .___   __                .__   ")
 print("\   \ /   /    |/ _| \______   \_____    ______ ________  _  _____________  __| _/ _/  |_  ____   ____ |  |  ")
@@ -16,8 +18,8 @@ kok = input("<id>:")
 
 for i in range(100):
     time.sleep(0.1)
-    sys.stdout.write("\r" + animation[i % len(animation)])
+    sys.stdout.write("\r" + animation[i % len(animation)] + "Processing: ")
     sys.stdout.flush()
 
-print("Password: GFpD765y")
+print(random.choice(passwords))
 input()
