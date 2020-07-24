@@ -3,7 +3,7 @@ import time
 import sys
 
 animation = "|/-\\"
-passwords = ["GPl675Y", "Password", "Barsik", "ImCool", "Zinabab", "Qwerty"]
+passwords = ["GPl675Y", "Password", "Barsik", "ImCool", "Zinabab", "Qwerty", "123456", "123456789", "1234567", "12345678", "iloveyou", "111111", "abc123", "1q2w3e4r", "qwertyuiop", "password1"]
 
 print("  _____           _        _    _          _____ _  __")
 print(" |_   _|         | |      | |  | |   /\   / ____| |/ /")

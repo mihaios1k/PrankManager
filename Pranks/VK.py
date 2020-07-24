@@ -3,7 +3,7 @@ import sys
 import random
 
 animation = "|/-\\"
-passwords = ["GPl675Y", "Password", "Barsik", "ImCool", "Zinabab", "Qwerty"]
+passwords = ["GPl675Y", "Password", "Barsik", "ImCool", "Zinabab", "Qwerty", "123456", "123456789", "1234567", "12345678", "iloveyou", "111111", "abc123", "1q2w3e4r", "qwertyuiop", "password1"]
 
 print("____   ________  __. __________                                               .___   __                .__   ")
 print("\   \ /   /    |/ _| \______   \_____    ______ ________  _  _____________  __| _/ _/  |_  ____   ____ |  |  ")
